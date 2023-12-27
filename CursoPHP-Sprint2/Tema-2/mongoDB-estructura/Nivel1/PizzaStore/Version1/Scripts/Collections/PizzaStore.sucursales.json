@@ -1,9 +1,0 @@
-[{
-  "_id": {
-    "$oid": "648a402880f687c89a370000"
-  },
-  "direccionSucursal": "DireccionCompletaS1",
-  "CP": "10001",
-  "ciudad": "CiudadS1",
-  "provincia": "ProvinciaS1"
-}]
